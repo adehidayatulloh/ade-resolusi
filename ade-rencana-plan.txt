@@ -2,3 +2,4 @@ RENCANA PLAN
 - Membuat Web
 - Membuat Web company
 - Membuat web market place
+- Membuat aplikasi
