@@ -1,5 +1,6 @@
 RENCANA PLAN 
 - Membuat Web
 - Membuat Web company
+- Membuat aplikasi java dekstop
+- Membuat spring java
 - Membuat web market place
-- Membuat aplikasi
