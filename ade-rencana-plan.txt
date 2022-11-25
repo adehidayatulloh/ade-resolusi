@@ -1,5 +1,7 @@
 RENCANA PLAN 
 - Membuat Web
 - Membuat Web company
+- Membuat Aplikasi java
+- Belajar java
 - Membuat web market place
 - Membuat aplikasi
